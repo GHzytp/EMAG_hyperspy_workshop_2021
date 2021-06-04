@@ -15,7 +15,7 @@ Repository for the EMAG hyperspy pre-conference workshop in 2021.
 |15:30 - 15:40 | Break                                              |           |        |
 |15:40 - 15:50 | Introduction to EDS Analysis                       | Talk      | TJS    |
 |15:50 - 16:25 | EDS Analysis                                       | Practical | TJS    |
-|16:25 - 16:30 | Wrap up                                            | Practical | TJS    |
+|16:25 - 16:30 | Wrap up                                            |           | TJS    |
 
 Speakers:
 - Eric Prestat (EP)
