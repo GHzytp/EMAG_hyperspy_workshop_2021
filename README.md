@@ -3,6 +3,8 @@ Repository for the EMAG hyperspy pre-conference workshop in 2021.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TomSlater/EMAG_hyperspy_workshop_2021/main)
 
+[<img src="https://img.shields.io/static/v1?label=Chat&message=Slack&color=blueviolet">](https://app.slack.com/client/T026C2ASQKA) 
+
 ## Schedule
 |Time          | Topic                                              |           |        |
 |--------------|----------------------------------------------------|-----------|--------|
