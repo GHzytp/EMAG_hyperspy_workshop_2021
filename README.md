@@ -10,7 +10,7 @@ Repository for the EMAG hyperspy pre-conference workshop in 2021.
 |--------------|----------------------------------------------------|-----------|--------|
 |13:30 - 13:40 | Welcome                                            |           | TJS    |
 |13:40 - 13:50 | Introduction to the Jupyter ecosystem              | Practical | EP     |
-|13:50 - 14:35 | Introduction to Python and HyperSpy                | Practical | EP/TJS |
+|13:50 - 14:35 | Introduction to Python and HyperSpy                | Practical | TJS    |
 |14:35 - 14:45 | Break                                              |           |        |
 |14:45 - 15:00 | Introduction to EELS Analysis and curve fitting    | Talk      | EP     |
 |15:00 - 15:30 | EELS Analysis                                      | Practical | EP     |
